@@ -1,0 +1,7 @@
+No,Operasi,Volume (MB),Client Workers,Server Workers,Rata-rata Waktu (s),Rata-rata Throughput (Bps),Client Success,Client Fail
+1,UPLOAD,10,1,1,5.2897,1982301.32,1,0
+2,UPLOAD,10,1,5,5.1444,2038298.71,1,0
+3,UPLOAD,10,1,50,5.244,1999570.95,1,0
+4,UPLOAD,10,5,1,46.1823,227353.28,5,0
+5,UPLOAD,10,5,5,39.9121,262802.03,5,0
+6,UPLOAD,10,5,50,51.0181,205645.41,5,0
